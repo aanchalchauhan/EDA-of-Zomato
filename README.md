@@ -9,6 +9,8 @@ SQL(Structured Query Language)
 
 •	Cleaned raw data with SQL and stored it in a database.
 
+• Analysed order data to identify patterns in customer behavior such as peak ordering times, average order value, popular menu items, and common order combinations.
+
 •	Analysed data and solved business generic problems.
 
 # Usage :
