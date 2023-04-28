@@ -8,3 +8,7 @@ To create a comprehensive dataset for an online food delivery app, clean and org
 •	Cleaned raw data with SQL and stored it in a database.
 
 •	Analysed data and solved business generic problems.
+
+# Author
+This project was created by Aanchal Singh Chauhan. For more information, please contact 
+www.linkedin.com/in/aanchalschauhan
