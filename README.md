@@ -13,6 +13,9 @@ SQL(Structured Query Language)
 
 •	Analysed data and solved business generic problems.
 
+# Usage :
+This could help in optimizing the menu, improving delivery times, increasing revenue, identifying trends, and improving customer satisfaction.
+
 # Author :
 This project was created by Aanchal Singh Chauhan. For more information, please contact 
 
