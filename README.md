@@ -1,8 +1,17 @@
-# EDA-of-Zomato
+# EDA-of-Zomato 
+This repository contains exploratory data analysis of Zomato.
+
+# Objective :
 To create a comprehensive dataset for an online food delivery app, clean and organize the raw data using SQL, and conduct a through analysis of the data to identify and solve business challenges.
 
 # Requirements :
 SQL(Structured Query Language)
+
+# Files :
+| Sn. | File Name | Description |
+| - | - | - |
+| 01 | Bike Data | This file contains raw data in csv format |
+| 02 | Bike Demand Prediction using Linear Regression.ipynb | This file contains all codes and EDA part as well |
 
 # Analysis :
 •	Created dataset containing all the information for an online food delivery app.
@@ -17,6 +26,6 @@ SQL(Structured Query Language)
 This could help in optimizing the menu, improving delivery times, increasing revenue, identifying trends, and improving customer satisfaction.
 
 # Author :
-This project was created by Aanchal Singh Chauhan. For more information, please contact 
-
-www.linkedin.com/in/aanchalschauhan
+| Name | GitHub | LinkedIn |
+| - | - | - |
+| Aanchal Singh | [GitHub-Aanchal](https://github.com/aanchalchauhan) | [LinkedIn-Aanchal](https://www.linkedin.com/in/aanchalschauhan/) |
