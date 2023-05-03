@@ -10,8 +10,8 @@ SQL(Structured Query Language)
 # Files :
 | Sn. | File Name | Description |
 | - | - | - |
-| 01 | Bike Data | This file contains raw data in csv format |
-| 02 | Bike Demand Prediction using Linear Regression.ipynb | This file contains all codes and EDA part as well |
+| 01 | Z_data | This file contains raw data in csv format |
+| 02 | Zomato_project_final | This file contains all codes of project |
 
 # Analysis :
 •	Created dataset containing all the information for an online food delivery app.
