@@ -1,4 +1,4 @@
-# EDA-of-Zomato 
+# Zomato Case Study
 This repository contains exploratory data analysis of Zomato.
 
 # Objective :
